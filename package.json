@@ -1,0 +1,15 @@
+
+{
+  "name": "schmitt-trigger-labbot",
+  "version": "1.0.0",
+  "description": "AI assistant for Schmitt Trigger Virtual Lab",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
